@@ -1,7 +1,7 @@
 range: 100
-max_vertical_angle: 15
-min_vertical_angle: -15
-vertical_resolution: 2
-horizontal_resolution: 0.4
+maxVerticalAngle: 15
+minVerticalAngle: -15
+verticalResolution: 2
+horizontalResolution: 0.4
 accuracy: 3
 frequency: 10
